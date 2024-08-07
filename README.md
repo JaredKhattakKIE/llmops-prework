@@ -7,5 +7,5 @@ colorTo: yellow
 sdk: docker
 pinned: false
 app_file: app.py
-app_port: 7222
+app_port: 7860
 ---

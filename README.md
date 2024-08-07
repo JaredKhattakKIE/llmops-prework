@@ -1,11 +1,10 @@
 # llmops-prework
----
-title: llmops-prework
-emoji: 📉
-colorFrom: pink
+ ---
+title: Llmops Prework Final
+emoji: 🐨
+colorFrom: gray
 colorTo: yellow
 sdk: docker
 pinned: false
-app_file: app.py
-app_port: 7860
+license: mit
 ---
